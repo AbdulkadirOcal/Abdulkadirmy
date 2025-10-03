@@ -1,0 +1,6 @@
+git init  
+git add  
+git commit -m ''Initial commit''
+branch -M main 
+remote add origin https://github.com/ab
+git push -u origin main
